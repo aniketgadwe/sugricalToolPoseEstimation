@@ -1,7 +1,7 @@
 ### 6DOF POSE ESTIMATION SURGICAL TOOL
 
-This is c++ implementation of **Real-time 6dof pose estimation of endoscopic instruments using printable markers** 
-Currenty this implementation capture video stream form camera. This is can experimentation and hence not written in optimised way. 
+This is c++ implementation of **Real-time 6dof pose estimation of endoscopic instruments using printable markers.** 
+Currenty this implementation capture video stream form camera. This is experimentation code and hence not written in optimised way. Please refer to the paper for detailed algorithm. 
 
 Type following command on terminal to generate .o files
 
