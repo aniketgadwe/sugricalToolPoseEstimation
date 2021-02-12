@@ -63,9 +63,12 @@ Type following command on terminal to run executable
 
 ---
 
-`Note: PLease cite this 'Real-time 6dof pose estimation of endoscopic instruments using printable markers' article if you use this code. Use following BibTex to cite article.`
+`Note: PLease cite this 'Real-time 6dof pose estimation of endoscopic instruments using printable markers' article if you use this code/paper. Use following BibTex to cite article.`
 
-```bash
-@ARTICLE{8574022,  author={A. {Gadwe} and H. {Ren}},  journal={IEEE Sensors Journal},   title={Real-Time 6DOF Pose Estimation of Endoscopic Instruments Using Printable Markers},   year={2019},  volume={19},  number={6},  pages={2338-2346},  doi={10.1109/JSEN.2018.2886418}}
+```
+@ARTICLE{8574022,  author={A. {Gadwe} and H. {Ren}},  journal={IEEE Sensors Journal},
+title={Real-Time 6DOF Pose Estimation of Endoscopic Instruments Using Printable Markers}, 
+year={2019},  volume={19},  number={6},
+pages={2338-2346},  doi={10.1109/JSEN.2018.2886418}}
 ```
 ---
